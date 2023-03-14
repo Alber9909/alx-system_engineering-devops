@@ -1,1 +1,1 @@
-Whats next
+echo Whats next?
