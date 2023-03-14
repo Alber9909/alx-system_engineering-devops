@@ -1,1 +1,1 @@
-echo Whats next?
+ I hate bins
